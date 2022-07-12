@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Punit-More31
 - 👀 I’m interested in Full Stack Web Developement
-- 🌱 I’m currently learning - React.js, node.js, MongoDB
 - 💞️ I’m looking to collaborate in open source project
 - 📫 How to reach me - punitmore31@gmail.com
 
