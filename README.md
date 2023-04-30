@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @punit_more31
+- 👋 Hi, I’m @punitmore31
 - 👀 I’m interested in Full Stack Web Developement
 - 💞️ I’m looking to collaborate in open source project
 - 📫 How to reach me - punitmore31@gmail.com
